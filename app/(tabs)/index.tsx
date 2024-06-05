@@ -54,7 +54,7 @@ function pontuar(){
 )
 }
 
-
+//estilos novos.
 
 const styles = StyleSheet.create({
   container:{
