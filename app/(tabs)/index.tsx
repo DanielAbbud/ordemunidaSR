@@ -69,7 +69,7 @@ const styles = StyleSheet.create({
   title:{
    
     fontSize: 30,
-    fontWeight: 'condensedBold',
+    fontWeight: 'ultralight',
     fontStyle: "italic",
     alignContent: 'center',
     alignItems: 'center',
