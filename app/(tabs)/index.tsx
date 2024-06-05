@@ -55,7 +55,7 @@ function pontuar(){
 }
 
 //estilos novos. mudando o que falta 
-// boa formas  
+// boa formas renan doido  
 
 const styles = StyleSheet.create({
   container:{
